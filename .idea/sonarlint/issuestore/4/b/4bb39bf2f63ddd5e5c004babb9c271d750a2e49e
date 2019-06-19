@@ -1,0 +1,17 @@
+
+Jsquid:S1444"".Make this "public static mScanner" field final(½±þØÿÿÿÿÿ
+Rsquid:S26960"6Make the enclosing method "static" or remove this set.(ÖÛßÈþÿÿÿÿ
+Rsquid:S2696B"6Make the enclosing method "static" or remove this set.(¢óƒôýÿÿÿÿ
+Rsquid:S2696E"6Make the enclosing method "static" or remove this set.(³êÍçüÿÿÿÿ
+Rsquid:S2696W"6Make the enclosing method "static" or remove this set.(°Î”‘üÿÿÿÿ
+Nsquid:S2696‘"6Make the enclosing method "static" or remove this set.(®•–æ
+Ssquid:S2696¥"6Make the enclosing method "static" or remove this set.(Äî²‹ýÿÿÿÿ
+Nsquid:S2696½"6Make the enclosing method "static" or remove this set.(Ë¬Ûï
+Lsquid:S1141y"5Extract this nested try block into a separate method.(—ä‘à
+‡"squid:ClassVariableVisibilityCheck""TMake mScanner a static final constant or non-public and provide accessors if needed.(½±þØÿÿÿÿÿ
+^squid:CallToDeprecatedMethod©"0Remove this use of "pickList"; it is deprecated.(ÃÊ›¯ÿÿÿÿÿ
+^squid:CallToDeprecatedMethod©"0Remove this use of "PickList"; it is deprecated.(ÃÊ›¯ÿÿÿÿÿ
+]squid:CallToDeprecatedMethod©"/Remove this use of "ENABLED"; it is deprecated.(ÃÊ›¯ÿÿÿÿÿ
+bsquid:S2142z"FEither re-interrupt this method or rethrow the "InterruptedException".(×çúˆýÿÿÿÿ
+fsquid:S22598"PA "NullPointerException" could be thrown; "emdkManagerResults" is nullable here.(ãáƒ
+?squid:S1148z"#Use a logger to log this exception.(×çúˆýÿÿÿÿ
